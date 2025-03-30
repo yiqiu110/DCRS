@@ -4,9 +4,6 @@ DCRS，Remote Sensing software for free
 
 Free and easy-to-use remote sensing software, an alternative to ENVI 2. Contains automated downloads of multiple remote sensing data, including downloads and processing of Sentinel 1, Sentinel 2, Sentinel 3, Sentinel 5P, Sentinel 6, Landsat 8-9, MODIS, Sunflower 8-9 and other satellite data
 
-image
-
-image
 
 url：https://drive.google.com/file/d/1qtk-fn9ABbG4UxDf413__i1FvjfruOTJ/view?usp=drive_link
 
